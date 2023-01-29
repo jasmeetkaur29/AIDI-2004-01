@@ -1,2 +1,2 @@
 ### AIDI-2004-01 <br>
-This 'new-branch' contains a python script
+This 'new-branch' contains a python script 'activate' file
